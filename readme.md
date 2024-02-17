@@ -1,6 +1,6 @@
 # Top deep learning Github repositories
 
-Here's a list of top 200 deep learning Github repositories sorted by the number of stars. The query that has been used with Github search API is:
+Here's a list of top 201 deep learning Github repositories sorted by the number of stars. The query that has been used with Github search API is:
 
 - `deep-learning OR CNN OR RNN OR "convolutional neural network" OR "recurrent neural network"`
 
